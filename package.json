@@ -4,7 +4,7 @@
   "description": "This is a workshop of API testing",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha -t 5000"
   },
   "keywords": [
     "api-testing",
