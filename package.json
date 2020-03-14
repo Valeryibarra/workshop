@@ -1,0 +1,20 @@
+{
+  "name": "workshop-api",
+  "version": "1.0.0",
+  "description": "This is a workshop of API testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "api-testing",
+    "dojo",
+    "practice"
+  ],
+  "author": "Valery Ibarra",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.0"
+  }
+}
